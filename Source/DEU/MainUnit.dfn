@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Christian\Code\Applications\Simple Text Search\MainUnit.dfm" source-language="en-US" target-language="de-DE" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Christian\Code\Applications\Simple Text Search\MainUnit.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40994.009537037</prop>
+        <prop prop-type="OrigDateTime">40994.0066203704</prop>
+        <prop prop-type="XlatDateTime">40994.0066203704</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">167</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FmSimpleReplace.Left" resname="O:FmSimpleReplace.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Top" resname="O:FmSimpleReplace.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522569</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Caption" resname="O:FmSimpleReplace.Caption">
+        <source>'Simple Text Replace'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.ClientHeight" resname="O:FmSimpleReplace.ClientHeight">
+        <source>514</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.ClientWidth" resname="O:FmSimpleReplace.ClientWidth">
+        <source>482</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Color" resname="O:FmSimpleReplace.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Font.Charset" resname="O:FmSimpleReplace.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Font.Color" resname="O:FmSimpleReplace.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Font.Height" resname="O:FmSimpleReplace.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Font.Name" resname="O:FmSimpleReplace.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522685</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.Font.Style" resname="O:FmSimpleReplace.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.OldCreateOrder" resname="O:FmSimpleReplace.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.OnClose" resname="O:FmSimpleReplace.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.OnCreate" resname="O:FmSimpleReplace.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.OnShow" resname="O:FmSimpleReplace.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.DesignSize[0]" resname="O:FmSimpleReplace.DesignSize[0]">
+        <source>482</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.DesignSize[1]" resname="O:FmSimpleReplace.DesignSize[1]">
+        <source>514</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.PixelsPerInch" resname="O:FmSimpleReplace.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.TextHeight" resname="O:FmSimpleReplace.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522801</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TFmSimpleReplace</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.Left" resname="O:FmSimpleReplace.O:GbxText.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.Top" resname="O:FmSimpleReplace.O:GbxText.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.Width" resname="O:FmSimpleReplace.O:GbxText.Width">
+        <source>466</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.Height" resname="O:FmSimpleReplace.O:GbxText.Height">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.Anchors" resname="O:FmSimpleReplace.O:GbxText.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.Caption" resname="O:FmSimpleReplace.O:GbxText.Caption">
+        <source>'Text'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.TabOrder" resname="O:FmSimpleReplace.O:GbxText.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.DesignSize[0]" resname="O:FmSimpleReplace.O:GbxText.DesignSize[0]">
+        <source>466</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095522917</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.DesignSize[1]" resname="O:FmSimpleReplace.O:GbxText.DesignSize[1]">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Left" resname="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Top" resname="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Width" resname="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Width">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Height" resname="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Caption" resname="O:FmSimpleReplace.O:GbxText.O:LblSearchText.Caption">
+        <source>'Search &amp;Text:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Left" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Left">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Top" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Top">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Width" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Width">
+        <source>338</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Height" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Anchors" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.TabOrder" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.OnChange" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.OnChange">
+        <source>CmbSearchTextChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.OnKeyPress" resname="O:FmSimpleReplace.O:GbxText.O:CmbSearchText.OnKeyPress">
+        <source>CmbSearchTextKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Left" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Left">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Top" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Width" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Width">
+        <source>338</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Height" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Anchors" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.TabOrder" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.OnKeyPress" resname="O:FmSimpleReplace.O:GbxText.O:CmbReplaceText.OnKeyPress">
+        <source>CmbReplaceTextKeyPress</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Left" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Top" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Top">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Width" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Width">
+        <source>86</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Height" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Margins.Bottom" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Margins.Bottom">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Caption" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.Caption">
+        <source>'&amp;Replace with:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.TabOrder" resname="O:FmSimpleReplace.O:GbxText.O:CbxReplaceText.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Left" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Top" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Top">
+        <source>83</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Width" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Height" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Margins.Bottom" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Margins.Bottom">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Caption" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.Caption">
+        <source>'&amp;Case Sensitive'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.TabOrder" resname="O:FmSimpleReplace.O:GbxText.O:CbxCaseInsensitivity.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Left" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Left">
+        <source>151</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Top" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Top">
+        <source>83</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Width" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Width">
+        <source>129</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Height" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Height">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Margins.Bottom" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Margins.Bottom">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Caption" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Caption">
+        <source>'Prompt Each Replace'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.TabOrder" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Visible" resname="O:FmSimpleReplace.O:GbxText.O:CbxConfirmation.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.Top">
+        <source>127</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.Width">
+        <source>466</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.Height">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095523958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.Anchors" resname="O:FmSimpleReplace.O:GbxSearchContext.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.Caption" resname="O:FmSimpleReplace.O:GbxSearchContext.Caption">
+        <source>'Search Scope'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.TabOrder" resname="O:FmSimpleReplace.O:GbxSearchContext.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.DesignSize[0]" resname="O:FmSimpleReplace.O:GbxSearchContext.DesignSize[0]">
+        <source>466</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.DesignSize[1]" resname="O:FmSimpleReplace.O:GbxSearchContext.DesignSize[1]">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Width">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Caption" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFolder.Caption">
+        <source>'Select Directory:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.009552419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Top">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Width">
+        <source>47</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Caption" resname="O:FmSimpleReplace.O:GbxSearchContext.O:LbFileType.Caption">
+        <source>'File Type:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Left">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Top">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Width">
+        <source>309</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Anchors" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.TabOrder" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.OnChange" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFolder.OnChange">
+        <source>CmbFolderChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Left">
+        <source>112</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Width">
+        <source>309</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Anchors" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.TabOrder" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Text" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Text">
+        <source>'*.pas; *.dpr; *.inc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[0]" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[0]">
+        <source>'*.pas; *.dpr; *.inc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[1]" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[1]">
+        <source>'*.pas'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[2]" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[2]">
+        <source>'*.txt'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[3]" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[3]">
+        <source>'*.dpr'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[4]" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CmbFileType.Items.Strings[4]">
+        <source>'*.inc'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Left">
+        <source>427</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Top">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Width">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Anchors" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Anchors">
+        <source>[akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Caption" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.Caption">
+        <source>'...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.TabOrder" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.OnClick" resname="O:FmSimpleReplace.O:GbxSearchContext.O:BtSelectDirectory.OnClick">
+        <source>BtSelectDirectoryClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Left" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524653</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Top" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Top">
+        <source>82</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Width" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Width">
+        <source>141</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Height" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Margins.Bottom" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Margins.Bottom">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Caption" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.Caption">
+        <source>'Include Subdirectories'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.TabOrder" resname="O:FmSimpleReplace.O:GbxSearchContext.O:CbxSubfolders.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Left" resname="O:FmSimpleReplace.O:TvwResults.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Top" resname="O:FmSimpleReplace.O:TvwResults.Top">
+        <source>277</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524769</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Width" resname="O:FmSimpleReplace.O:TvwResults.Width">
+        <source>466</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Height" resname="O:FmSimpleReplace.O:TvwResults.Height">
+        <source>212</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Anchors" resname="O:FmSimpleReplace.O:TvwResults.Anchors">
+        <source>[akLeft, akTop, akRight, akBottom]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.DoubleBuffered" resname="O:FmSimpleReplace.O:TvwResults.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Font.Charset" resname="O:FmSimpleReplace.O:TvwResults.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Font.Color" resname="O:FmSimpleReplace.O:TvwResults.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Font.Height" resname="O:FmSimpleReplace.O:TvwResults.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Font.Name" resname="O:FmSimpleReplace.O:TvwResults.Font.Name">
+        <source>'Courier New'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095524884</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Font.Style" resname="O:FmSimpleReplace.O:TvwResults.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Images" resname="O:FmSimpleReplace.O:TvwResults.Images">
+        <source>ImageList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.Indent" resname="O:FmSimpleReplace.O:TvwResults.Indent">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.ParentDoubleBuffered" resname="O:FmSimpleReplace.O:TvwResults.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.ParentFont" resname="O:FmSimpleReplace.O:TvwResults.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.ParentShowHint" resname="O:FmSimpleReplace.O:TvwResults.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.ShowHint" resname="O:FmSimpleReplace.O:TvwResults.ShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.TabOrder" resname="O:FmSimpleReplace.O:TvwResults.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.ToolTips" resname="O:FmSimpleReplace.O:TvwResults.ToolTips">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:TvwResults.OnAdvancedCustomDrawItem" resname="O:FmSimpleReplace.O:TvwResults.OnAdvancedCustomDrawItem">
+        <source>TvwResultsAdvancedCustomDrawItem</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TTreeView</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:StatusBar.Left" resname="O:FmSimpleReplace.O:StatusBar.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:StatusBar.Top" resname="O:FmSimpleReplace.O:StatusBar.Top">
+        <source>495</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:StatusBar.Width" resname="O:FmSimpleReplace.O:StatusBar.Width">
+        <source>482</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:StatusBar.Height" resname="O:FmSimpleReplace.O:StatusBar.Height">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TStatusBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:StatusBar.Panels[0].Width" resname="O:FmSimpleReplace.O:StatusBar.Panels[0].Width">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">C:TStatusBar</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.Left" resname="O:FmSimpleReplace.O:ProgressBar.Left">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.Top" resname="O:FmSimpleReplace.O:ProgressBar.Top">
+        <source>246</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525116</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.Width" resname="O:FmSimpleReplace.O:ProgressBar.Width">
+        <source>408</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.Height" resname="O:FmSimpleReplace.O:ProgressBar.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.Anchors" resname="O:FmSimpleReplace.O:ProgressBar.Anchors">
+        <source>[akLeft, akTop, akRight]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.Step" resname="O:FmSimpleReplace.O:ProgressBar.Step">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ProgressBar.TabOrder" resname="O:FmSimpleReplace.O:ProgressBar.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TProgressBar</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.Left" resname="O:FmSimpleReplace.O:BtGo.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.Top" resname="O:FmSimpleReplace.O:BtGo.Top">
+        <source>246</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.Width" resname="O:FmSimpleReplace.O:BtGo.Width">
+        <source>52</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525231</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.Height" resname="O:FmSimpleReplace.O:BtGo.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.Caption" resname="O:FmSimpleReplace.O:BtGo.Caption">
+        <source>'Go!'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.Enabled" resname="O:FmSimpleReplace.O:BtGo.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.TabOrder" resname="O:FmSimpleReplace.O:BtGo.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:BtGo.OnClick" resname="O:FmSimpleReplace.O:BtGo.OnClick">
+        <source>BtGoClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ImageList.ColorDepth" resname="O:FmSimpleReplace.O:ImageList.ColorDepth">
+        <source>cd32Bit</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ImageList.Left" resname="O:FmSimpleReplace.O:ImageList.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ImageList.Top" resname="O:FmSimpleReplace.O:ImageList.Top">
+        <source>296</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525347</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FmSimpleReplace.O:ImageList.Bitmap" resname="O:FmSimpleReplace.O:ImageList.Bitmap">
+        <source>494C010102003800380010001000FFFFFFFF2110FFFFFFFFFFFFFFFF424D3600000000000000360000002800000040000000100000000100200000000000001000000000000000000000000000000000000000000000000000000E0E0E4C3C3C3C973E3E3E993E3E3E993E3E3E993E3E3E993E3E3E993E3E3E993E3E3E993F3F3F9C1B1B1B660000000900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000006060637CECECEFFD9D9D9FFD9D9D9FFD9D9D9FFD9D9D9FFD9D9D9FFD9D9D9FFD9D9D9FFD9D9D9FFD7D7D7FFC4C4C4FF7C7C7CD100000000000000000000000000000000000000000000000000000000000000001414147D0000000300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001313135EDCDCDCFFDADADAFFDADADAFFDADADAFFDADADAFFDADADAFFDADADAFFDADADAFFDADADAFFDCDCDCFFC2C2C2FEE9E9E9FF3C3C3C9A00000000000000000000000000000000000000000000000000000000636363FF454545EE02020233000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DDDDDDDFFDBDBDBFFDBDBDBFFDBDBDBFFDBDBDBFFDBDBDBFFDBDBDBFFDBDBDBFFDBDBDBFFDCDCDCFFD4D4D4FFD8D8D8FE757575CC00000000000000000000000000000000000000000000000000000000575757FF727272FF5B5B5BFC141414900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DE0E0E0FFD8D8D8FFCDCDCDFFCECECEFFCECECEFFCECECEFFCFCFCFFFDCDCDCFFDEDEDEFFDEDEDEFFDEDEDEFFE0E0E0FF747474CB000000000000000000000012000000170000001700000017000000064F4F4FFF6F6F6FFF656565FE5F5F5FFF343434CD0101011F000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DE2E2E2FFD9D9D9FFCFCFCFFFCFCFCFFFCFCFCFFFCFCFCFFFD1D1D1FFDEDEDEFFDFDFDFFFDFDFDFFFDFDFDFFFE2E2E2FF757575CB0000000000000011414141CF444444E84C4C4CE84E4E4EE84E4E4EE6646464FF696969FF626262FF5A5A5AFE545454FF525252F00F0F0F660000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DE4E4E4FFE2E2E2FFE4E4E4FFE4E4E4FFE4E4E4FFE4E4E4FFE4E4E4FFE4E4E4FFE4E4E4FFE4E4E4FFE3E3E3FFE4E4E4FF757575CB00000000000000173E3E3EE8474747FF545454FF5D5D5DFF636363FF646464FF626262FF5E5E5EFF585858FF515151FF474747FE555555FF1E1E1E8D0000000C000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DE6E6E6FFCCCCCCFFA0A0A0FFA2A2A2FFA2A2A2FFA2A2A2FFA2A2A2FFA2A2A2FFA2A2A2FFA2A2A2FFB1B1B1FFE7E7E7FF767676CB00000000000000173C3C3CE84A4A4AFF555555FF5D5D5DFF626262FF626262FF5F5F5FFF5B5B5BFF535353FF4C4C4CFF474747FF424242FF454545FF4A4A4ADB020202240000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DE8E8E8FFE8E8E8FFEBEBEBFFEBEBEBFFEBEBEBFFEBEBEBFFEBEBEBFFEBEBEBFFEBEBEBFFEBEBEBFFEAEAEAFFE8E8E8FF767676CB0000000000000017515151E86A6A6AFF6E6E6EFF717171FF747474FF747474FF757575FF737373FF737373FF6C6C6CFF646464FF535353FE484848FF4D4D4DE8040404300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DEAEAEAFFE9E9E9FFEDEDEDFFEDEDEDFFEDEDEDFFEDEDEDFFEDEDEDFFEDEDEDFFEDEDEDFFEDEDEDFFECECECFFEAEAEAFF777777CB00000000000000175B5B5BE8787878FF7A7A7AFF7C7C7CFF7E7E7EFF7E7E7EFF7D7D7DFF7C7C7CFF7B7B7BFF797979FF767676FE828282FF363636AB00000012000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DEDEDEDFFD0D0D0FFA1A1A1FFA4A4A4FFA4A4A4FFA4A4A4FFA4A4A4FFA4A4A4FFA4A4A4FFA3A3A3FFB4B4B4FFEEEEEEFF777777CB0000000000000012575757D0575757E8585858E8575757E8545454E6737373FF8C8C8CFF8B8B8BFF888888FE8B8B8BFF848484F61F1F1F830000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DEEEEEEFFEDEDEDFFF0F0F0FFF0F0F0FFF0F0F0FFF0F0F0FFF0F0F0FFF0F0F0FFF0F0F0FFF0F0F0FFEFEFEFFFEEEEEEFF797979CB00000000000000000000001300000017000000170000001700000006626262FF9D9D9DFF989898FEA5A5A5FF6C6C6CE60303032E000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125DF0F0F0FFDCDCDCFFBDBDBDFFBFBFBFFFBFBFBFFFBFBFBFFFBFBFBFFFBFBFBFFFBFBFBFFFBFBFBFFFC9C9C9FFEFEFEFFE797979CB00000000000000000000000000000000000000000000000000000000787878FFB2B2B2FFA4A4A4FF383838B10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001212125EF3F3F3FFEBEBEBFFE5E5E5FFE6E6E6FFE6E6E6FFE6E6E6FFE6E6E6FFE6E6E6FFE6E6E6FFE6E6E6FFE8E8E8FFF0F0F0FE7C7C7CCD00000000000000000000000000000000000000000000000000000000949494FF8E8E8EFF0A0A0A4F0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000014CDCDCDF7E9E9E9FFE8E8E8FFE8E8E8FFE8E8E8FFE8E8E8FFE8E8E8FFE8E8E8FFE8E8E8FFE8E8E8FFE8E8E8FFEEEEEEFE22222273000000000000000000000000000000000000000000000000000000001F1F1F7B000000180000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000101011A07070733070707330707073307070733070707330707073307070733070707330707073307070733040404290000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000424D3E000000000000003E0000002800000040000000100000000100010000000000800000000000000000000000000000000000000000000000FFFFFF00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40994.0095525463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TImageList</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
